@@ -1,0 +1,22 @@
+hr{
+    position: relative;
+    top: 20px;
+    border: none;   
+    height: 12px;
+    background: black;
+}
+.wait{
+    text-align: center;
+    margin-top: 5rem;
+}
+/* body{
+    background-color: #080326 !important;
+    color: white;
+}
+.cs-site_header {
+    background-color: #100d2c !important;
+    color: white !important;
+} */
+td{
+    color: white!important;
+}
